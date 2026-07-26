@@ -9,9 +9,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - &nbsp; I’m currently working on personal blog
-- &nbsp; I’m currently learning Webflow; 
-- &nbsp; Most of my projects are available on [Github](https://github.com/dev-marwa510).
-- &nbsp; Ask me about anything tech related, I am happy to help;
+- &nbsp; I’m currently learning Webflow
+- &nbsp; Most of my projects are available on [Github](https://github.com/dev-marwa510)
+- &nbsp; Ask me about anything tech related, I am happy to help
 - &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/marwa-haj-hassan-803593319/)
 
 <br>
